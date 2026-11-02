@@ -72,7 +72,9 @@ meaningful technology projects.
 ---------------------------------------------------------------
 🤝 Let's Connect
 •	GitHub:https://github.com/anjali9739/
+
 •	LinkedIn: www.linkedin.com/in/anjali-naregal-a70509280
+
 •	Email: anjalignaregal921@gmail.com
 ----------------------------------------------------------------
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories.
