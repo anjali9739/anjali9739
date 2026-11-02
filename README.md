@@ -8,7 +8,9 @@ Communication Engineering background with hands-on learning in Java Full
 Stack development, AI & ML, and Embedded Systems with IoT.
 
 •	👩‍🏫 Currently working as: Lab Instructor at SKSVMACET,Laxmeshwar
+
 •	🎓 Education: B.E. in Electronics & Communication Engineering
+
 •	💻 Training: Java Full Stack course at JSpiders, Rajajinagar.
 
 •	🔬 Internship exposure: AI & ML, and Embedded Systems with IoT.
